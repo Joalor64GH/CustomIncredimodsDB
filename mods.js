@@ -2,7 +2,7 @@
 // testing for now
 modsList = [
     {
-        name: "Example",
+        name: "Zerouxbox",
         desc: "Description goes here.",
         imgBG: "mod-background",
         imgIcon: "mod-icon",
@@ -11,7 +11,7 @@ modsList = [
         downloadAndroid: "https://joalor64gh.github.io/foreverbox.html",
     },
     {
-        name: "Example",
+        name: "Eternyx",
         desc: "Description goes here.",
         imgBG: "mod-background",
         imgIcon: "mod-icon",
@@ -20,7 +20,7 @@ modsList = [
         downloadAndroid: "https://joalor64gh.github.io/foreverbox.html",
     },
     {
-        name: "Example",
+        name: "Joalor64's Beatbox",
         desc: "Description goes here.",
         imgBG: "mod-background",
         imgIcon: "mod-icon",
@@ -29,7 +29,7 @@ modsList = [
         downloadAndroid: "https://joalor64gh.github.io/foreverbox.html",
     },
     {
-        name: "Example",
+        name: "Yet Another Generic Sprunki Remake",
         desc: "Description goes here.",
         imgBG: "mod-background",
         imgIcon: "mod-icon",
@@ -38,7 +38,25 @@ modsList = [
         downloadAndroid: "https://joalor64gh.github.io/foreverbox.html",
     },
     {
-        name: "Example",
+        name: "Caribbeanbox",
+        desc: "Description goes here.",
+        imgBG: "mod-background",
+        imgIcon: "mod-icon",
+        preview: "https://joalor64gh.github.io/",
+        downloadPC: "https://joalor64gh.github.io/foreverbox.html",
+        downloadAndroid: "https://joalor64gh.github.io/foreverbox.html",
+    },
+    {
+        name: "Thomasbox",
+        desc: "Description goes here.",
+        imgBG: "mod-background",
+        imgIcon: "mod-icon",
+        preview: "https://joalor64gh.github.io/",
+        downloadPC: "https://joalor64gh.github.io/foreverbox.html",
+        downloadAndroid: "https://joalor64gh.github.io/foreverbox.html",
+    },
+    {
+        name: "Foreverbox",
         desc: "Description goes here.",
         imgBG: "mod-background",
         imgIcon: "mod-icon",
